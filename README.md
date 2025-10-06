@@ -1,2 +1,7 @@
 # FINE3300-2025-A1
-Schulich FINE 3300 Assignment 1, Python Code for Mortgage Payments and Exchange Rates Calculation
+Schulich School of Business, FINE 3300, Assignment 1, Python Code for Mortgage Payments and Exchange Rates Calculation
+
+Files
+- `mortgage_payments.py` - Calculates mortgage payments
+- `exchange_rates.py` - Converts between USD and CAD
+- `BankOfCanadaExchangeRates.csv` - Exchange rate data
